@@ -18,8 +18,8 @@
     "bot-md",
     "whatsapp-multi-device"
   ],
-  "base": "https://github.com/ShadowHackrs",
-  "author": "ShadowHackrs",
+  "base": "https://github.com/mohammee007",
+  "author": "mohammee007",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "4.4.0",
@@ -41,10 +41,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ShadowHackrs/Whatsapp-Bot.git"
+    "url": "git+https://github.com/mohammee007/Whatsapp-Bot.git"
   },
   "bugs": {
     "url": "https://github.com/ShadowHackrs/Whatsapp-Bot/issues"
   },
-  "homepage": "https://github.com/ShadowHackrs/Whatsapp-Bot#readme"
+  "homepage": "https://github.com/mohammee007/Whatsapp-Bot#readme"
 }
